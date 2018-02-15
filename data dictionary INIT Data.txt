@@ -1,4 +1,4 @@
-﻿Data Dictionary
+Data Dictionary
 TriMet raw data.
 Miles J. Crumley, MS - Operations Analyst: Bus Transportation/Maintenance
 
